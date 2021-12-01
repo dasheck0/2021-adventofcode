@@ -1,0 +1,11 @@
+{
+  "name": "dasheck0-2021-adventofcode",
+  "version": "1.0.0",
+  "description": "https://adventofcode.com/2021/day/1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Neidig <s.neidig@nanogiants.de> (https://appcom-interactive.de/)",
+  "license": "MIT"
+}
