@@ -28,4 +28,7 @@ lines.forEach((line, index) => {
         }
     }
 });
+
 console.log(count);
+
+
